@@ -1,0 +1,15 @@
+{
+    "C++ start template": {
+        "prefix": "main++",
+        "body": [
+            "int main(int argc, char* argV[])",
+            "{",
+            "$0",
+            "// Your code here ",
+            "$1",
+            "return 0;",
+            "}"
+        ],
+        "description": "Creates C++ starter template"
+    }
+}
