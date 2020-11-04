@@ -1,4 +1,4 @@
-# theia & VScode Exstenition
+# Theia & VScode Exstenition
 
 ### generatot of webpage with cat
 
